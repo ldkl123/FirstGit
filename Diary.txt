@@ -1,1 +1,2 @@
 2018.11.13  learned about ssh git and add, commit, push, pull
+	    Reinforcement learning p.75	
